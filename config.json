@@ -3,9 +3,5 @@
   "pollIntervalSeconds": 10,
   "reconnectCooldownSeconds": 30,
   "disableEnableDelaySeconds": 3,
-  "maxReconnectAttemptsPerHour": 20,
-  "cycleAdapter": false,
-  "cleanupGhostsOnReconnect": true,
-  "allowHfpReconnect": true,
-  "logPath": "logs\\autoconnect-bt.log"
+  "maxReconnectAttemptsPerHour": 20
 }
